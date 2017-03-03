@@ -1,4 +1,4 @@
-# WeiboCrawler
+WeiboCrawler
 ==============
 This is a web crawler which can search Weibo through a keyword. This web crawler based on Scrapy. 
 
